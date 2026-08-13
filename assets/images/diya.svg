@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="flame" x1="32" y1="4" x2="32" y2="32">
+      <stop offset="0%" stop-color="#F4E4A6"/>
+      <stop offset="45%" stop-color="#E8A317"/>
+      <stop offset="100%" stop-color="#C1622D"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 6c4.5 7 10 12.5 10 20 0 6.6-4.5 12-10 12s-10-5.4-10-12c0-7.5 5.5-13 10-20z" fill="url(#flame)"/>
+  <ellipse cx="32" cy="40" rx="22" ry="6" fill="#C1622D"/>
+  <path d="M12 40c2 8 10 14 20 14s18-6 20-14" stroke="#A04E22" stroke-width="2" fill="#D4783A"/>
+  <ellipse cx="32" cy="39" rx="16" ry="3.2" fill="#FBF7F0" opacity="0.35"/>
+  <path d="M22 48h20" stroke="#D4A017" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+</svg>
